@@ -11,7 +11,7 @@
 * <a href='https://blog.csdn.net/Cai_deLong/article/details/110903263?spm=1001.2014.3001.5502' target='_blank'>消融实验（Ablation experiment）是什么？</a> - 2020-12-11
 * <a href='https://blog.csdn.net/Cai_deLong/article/details/109427726?spm=1001.2014.3001.5502' target='_blank'>Atlas 200DK 开发环境配置总结(Ubuntu 18.04)</a> - 2020-11-01
 * <a href='https://blog.csdn.net/Cai_deLong/article/details/108774996?spm=1001.2014.3001.5502' target='_blank'>目标检测与目标跟踪：区别与联系</a> - 2020-09-24
-* <a href='https://blog.csdn.net/Cai_deLong?spm=1000.2115.3001.5343&type=blog' target='_blank'>SLAM快速入门</a> - 2020-09-13
+* <a href='https://blog.csdn.net/Cai_deLong/article/details/108465850?spm=1001.2014.3001.5502' target='_blank'>SLAM快速入门</a> - 2020-09-13
 * <a href='https://blog.csdn.net/Cai_deLong?spm=1000.2115.3001.5343&type=blog' target='_blank'>[神经网络剪枝行不行？-【Network Pruning发展近况】](https://blog.csdn.net/Cai_deLong/article/details/108555999)</a> - 2020-09-12
 <!-- blog ends -->
 
