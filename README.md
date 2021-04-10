@@ -9,7 +9,8 @@ http://emojihomepage.com/
 ### 👋 About me
 **Long Chen**
 
-- A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by professor Haoyao Chen.
+- A student of School of Mechanical Engineering and Automation in [**Harbin Institute of Technology(Shenzhen)**](http://www.hitsz.edu.cn/index.html)
+- A member of [NRSL group](http://nrs-lab.com).
 - Currently studying in perception and grasp of autonomous aerial manipulation.
 
 ### 📝 Recent blogs
