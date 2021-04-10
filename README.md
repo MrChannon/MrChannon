@@ -27,7 +27,7 @@ http://emojihomepage.com/
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true)
 
 ### 🐉 More about Dragon
-<br/> 👨 [Biography](https://MrChannon.github.io/)
+👨 [Biography](https://MrChannon.github.io/)
 <br/> 📫  chenl7885@gmail.com
 <br/> ✍  Dragon_Chen1997
   
