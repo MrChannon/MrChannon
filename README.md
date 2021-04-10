@@ -29,7 +29,7 @@ http://emojihomepage.com/
 ### 🐉 More about Dragon
 👨 [Biography](https://MrChannon.github.io/)
 <br/> 📫  chenl7885@gmail.com
-<br/> ✍  Dragon_Chen1997
+<br/> ✍  [CSDN](https://blog.csdn.net/Cai_deLong?spm=1001.2101.3001.5343)   <!--Dragon_Chen1997-->
   
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
