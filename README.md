@@ -6,13 +6,13 @@ emoji网站
 http://emojihomepage.com/
 -->
 
-### :wave: About me
+### 👋 About me
 **Long Chen**
 
 - A student of School of Mechanical Engineering and Automation in **Harbin Institute of Technology(Shenzhen)** and a member of [NRSL group](http://nrs-lab.com), led by professor Haoyao Chen.
 - Currently studying in perception and grasp of autonomous aerial manipulation.
 
-### :blue_book: Recent blogs
+### 📝 Recent blogs
 <!-- blog starts -->
 
 * <a href='https://blog.csdn.net/Cai_deLong/article/details/111148033?spm=1001.2014.3001.5502' target='_blank'>概览：快速入门神经网络剪枝！</a> - 2020-12-17
@@ -23,21 +23,23 @@ http://emojihomepage.com/
 * <a href='https://blog.csdn.net/Cai_deLong?spm=1000.2115.3001.5343&type=blog' target='_blank'>[神经网络剪枝行不行？-【Network Pruning发展近况】](https://blog.csdn.net/Cai_deLong/article/details/108555999)</a> - 2020-09-12
 <!-- blog ends -->
 
-### :watermelon: Github statistics
-![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox)
+### ⌨ Github statistics
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true)
 
-<br/> 👨 [Biography](https://MrChannon.github.io)
-<br/> 📫  chenl7885@gmail.com :page_facing_up:
-
+### 🐉 More about Dragon
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
   🏃 I want to be a better me this year.<br> 👨‍🎓 I'm currently working on my master's degree.
 </details>
 
+<br/> 👨 [Biography](https://MrChannon.github.io)
+<br/> 📫  chenl7885@gmail.com
+<br/> ✍  Dragon_Chen1997
+
 ---
-![GitHub followers](https://img.shields.io/github/followers/tristaZero?color=brightgreen&style=plastic)
-[![Visits Badge](https://badges.pufler.dev/visits/tristaZero/git-badges)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/tristaZero)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/tristaZero)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/tristaZero/shardingsphere)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/tristaZero)](https://badges.pufler.dev)
+![GitHub followers](https://img.shields.io/github/followers/MrChannon?color=brightgreen&style=plastic)
+[![Visits Badge](https://badges.pufler.dev/visits/MrChannon/git-badges)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/MrChannon)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/MrChannon)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/MrChannon/shardingsphere)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/MrChannon)](https://badges.pufler.dev)
