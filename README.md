@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox">
+
 ### :wave: About me
 **Long Chen**
 
@@ -20,8 +22,6 @@
 ### :watermelon: Github statistics
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox)
 -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox">
 
 <br/> 👩 [Biography](https://MrChannon.github.io)
 <br/> 📫  chenl7885@gmail.com
