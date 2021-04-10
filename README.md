@@ -18,14 +18,6 @@
 ### :watermelon: Github statistics
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox)
 
-### Hi everyone, This is Trista, nice to meet you! 
-
-初めまして、潘娟と申します。よろしくお願いしますね 👋
-
-- Senior DBA working at JD.com
-- Apache memeber
-- Apache ShardingSphere PMC
-
 <br/> 👩 [Biography](https://MrChannon.github.io)
 <br/> 📫  chenl7885@gmail.com
 
