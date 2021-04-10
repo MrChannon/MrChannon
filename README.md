@@ -28,9 +28,9 @@ http://emojihomepage.com/
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true)
 
 ### 🐉 More about Dragon
-<br/> ✍  [CSDN](https://blog.csdn.net/Cai_deLong?spm=1001.2101.3001.5343)   <!--Dragon_Chen1997-->
-<br/> 📫  chenl7885@gmail.com
 <!--👨 [Biography](https://MrChannon.github.io/)-->
+✍  [CSDN](https://blog.csdn.net/Cai_deLong?spm=1001.2101.3001.5343)   <!--Dragon_Chen1997-->
+<br/> 📫  chenl7885@gmail.com
   
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
