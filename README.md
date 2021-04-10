@@ -30,11 +30,10 @@ http://emojihomepage.com/
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
   🏃 I want to be a better me this year.<br> 👨‍🎓 I'm currently working on my master's degree.
+  <br/> 👨 [Biography](https://MrChannon.github.io)
+  <br/> 📫  chenl7885@gmail.com
+  <br/> ✍  Dragon_Chen1997
 </details>
-
-<br/> 👨 [Biography](https://MrChannon.github.io)
-<br/> 📫  chenl7885@gmail.com
-<br/> ✍  Dragon_Chen1997
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/MrChannon?color=brightgreen&style=plastic)
