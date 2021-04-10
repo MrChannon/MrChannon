@@ -39,8 +39,8 @@ http://emojihomepage.com/
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/MrChannon?color=brightgreen&style=plastic)
-[![Visits Badge](https://badges.pufler.dev/visits/MrChannon/git-badges)](https://badges.pufler.dev)
+<!--[![Visits Badge](https://badges.pufler.dev/visits/MrChannon/git-badges)](https://badges.pufler.dev)-->
 [![Years Badge](https://badges.pufler.dev/years/MrChannon)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/MrChannon)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/MrChannon/shardingsphere)](https://badges.pufler.dev)
+<!--[![Gists Badge](https://badges.pufler.dev/gists/MrChannon)](https://badges.pufler.dev)-->
+<!--[![Updated Badge](https://badges.pufler.dev/updated/MrChannon/shardingsphere)](https://badges.pufler.dev)-->
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/MrChannon)](https://badges.pufler.dev)
