@@ -27,12 +27,13 @@ http://emojihomepage.com/
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true)
 
 ### 🐉 More about Dragon
+👨 [Biography](https://MrChannon.github.io/)
+📫  chenl7885@gmail.com
+✍  Dragon_Chen1997
+  
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
   🏃 I want to be a better me this year.<br> 👨‍🎓 I'm currently working on my master's degree.
-  <br/> 👨 [Biography](https://MrChannon.github.io)
-  <br/> 📫  chenl7885@gmail.com
-  <br/> ✍  Dragon_Chen1997
 </details>
 
 ---
