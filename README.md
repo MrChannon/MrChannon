@@ -1,6 +1,10 @@
 <!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox">
 -->
+<!--
+emoji网站
+http://emojihomepage.com/
+-->
 
 ### :wave: About me
 **Long Chen**
@@ -22,12 +26,12 @@
 ### :watermelon: Github statistics
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox)
 
-<br/> 👩 [Biography](https://MrChannon.github.io) :bowtie:
+<br/> 👨 [Biography](https://MrChannon.github.io)
 <br/> 📫  chenl7885@gmail.com :page_facing_up:
 
 <details>
   <summary><b>:telescope: 2021 goal</b></summary>
-  I want to be a better me this year.<br> I'm currently working on my master's degree.
+  🏃 I want to be a better me this year.<br> 👨‍🎓 I'm currently working on my master's degree.
 </details>
 
 ---
