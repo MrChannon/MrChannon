@@ -15,8 +15,13 @@
 * <a href='https://blog.csdn.net/Cai_deLong?spm=1000.2115.3001.5343&type=blog' target='_blank'>[神经网络剪枝行不行？-【Network Pruning发展近况】](https://blog.csdn.net/Cai_deLong/article/details/108555999)</a> - 2020-09-12
 <!-- blog ends -->
 
+
+<!--
 ### :watermelon: Github statistics
 ![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox)
+-->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MrChannon&show_icons=true&theme=gruvbox">
 
 <br/> 👩 [Biography](https://MrChannon.github.io)
 <br/> 📫  chenl7885@gmail.com
